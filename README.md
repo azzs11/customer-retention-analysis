@@ -74,7 +74,7 @@ pip install -r requirements.txt
 
 ## 📧 Contact
 
-[Your Name] - [Your Email/LinkedIn]
+Akchhya - [akchhya1108@gmail.com]
 
 ---
 
